@@ -1,0 +1,11 @@
+/Users/steph/src/Cub/bin/Debug/netcoreapp2.0/Cub.deps.json
+/Users/steph/src/Cub/bin/Debug/netcoreapp2.0/Cub.runtimeconfig.json
+/Users/steph/src/Cub/bin/Debug/netcoreapp2.0/Cub.runtimeconfig.dev.json
+/Users/steph/src/Cub/bin/Debug/netcoreapp2.0/Cub.dll
+/Users/steph/src/Cub/bin/Debug/netcoreapp2.0/Cub.pdb
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.csproj.CoreCompileInputs.cache
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.AssemblyInfoInputs.cache
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.AssemblyInfo.cs
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.dll
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.pdb
+/Users/steph/src/Cub/obj/Debug/netcoreapp2.0/Cub.csprojResolveAssemblyReference.cache
