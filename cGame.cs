@@ -344,7 +344,7 @@ namespace Cub
             // Load the level and ensure all the lines are the same length
             int width;
             List<string> lines = new List<string>();
-            string path = "Content\\maps\\" + mapname + ".txt";
+            string path = "Content/maps/" + mapname + ".txt";
             using (StreamReader reader = new StreamReader(new FileStream(path, FileMode.Open)))
             {
                 string line = reader.ReadLine();
